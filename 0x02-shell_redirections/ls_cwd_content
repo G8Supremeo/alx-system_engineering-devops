@@ -1,0 +1,14 @@
+total 21
+drwxr-xr-x 1 SuPreMeo 197121   0 Sep  6 09:16 .
+drwxr-xr-x 1 SuPreMeo 197121   0 Sep  6 06:49 ..
+-rwxr-xr-x 1 SuPreMeo 197121  30 Sep  6 06:56 0-hello_world
+-rwxr-xr-x 1 SuPreMeo 197121  30 Sep  6 07:02 1-confused_smiley
+-rwxr-xr-x 1 SuPreMeo 197121  30 Sep  6 07:16 2-hellofile
+-rwxr-xr-x 1 SuPreMeo 197121  39 Sep  6 07:18 3-twofiles
+-rwxr-xr-x 1 SuPreMeo 197121  35 Sep  6 07:22 4-lastlines
+-rwxr-xr-x 1 SuPreMeo 197121  35 Sep  6 07:35 5-firstlines
+-rwxr-xr-x 1 SuPreMeo 197121  36 Sep  6 07:46 6-third_line
+-rwxr-xr-x 1 SuPreMeo 197121  99 Sep  6 09:04 7-file
+-rwxr-xr-x 1 SuPreMeo 197121  36 Sep  6 09:16 8-cwd_state
+-rw-r--r-- 1 SuPreMeo 197121 754 Sep  6 07:48 iacta
+-rw-r--r-- 1 SuPreMeo 197121   0 Sep  6 09:16 ls_cwd_content
